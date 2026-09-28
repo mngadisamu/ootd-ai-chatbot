@@ -1,0 +1,6 @@
+{
+  "name": "OOTD AI Fashion Stylist",
+  "description": "Intelligent daily outfit stylist, outfit upgrade analyzer, digital closet curator, and lookbook planner powered by multimodal Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
