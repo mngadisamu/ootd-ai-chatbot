@@ -4,7 +4,7 @@ An AI stylist chatbot that builds outfits from your own digital wardrobe. Tell i
 
 Prototyped with [Google AI Studio](https://aistudio.google.com/) and Gemini.
 
-![Digital Wardrobe](docs/screenshots/wardrobe.png)
+![Digital Wardrobe](docs/screenshots/wardrobe.PNG)
 
 ## Features
 
@@ -21,11 +21,11 @@ Prototyped with [Google AI Studio](https://aistudio.google.com/) and Gemini.
 
 | Inspiration Hub | Saved Outfits |
 | --- | --- |
-| ![Inspiration Hub](docs/screenshots/inspiration-hub.png) | ![Saved Outfits](docs/screenshots/saved-outfits.png) |
+| ![Inspiration Hub](docs/screenshots/inspiration-hub.PNG) | ![Saved Outfits](docs/screenshots/saved-outfits.PNG) |
 
 | Wear Logs | Dark mode |
 | --- | --- |
-| ![Wear Logs](docs/screenshots/wear-logs.png) | ![Settings in dark mode](docs/screenshots/settings-dark.png) |
+| ![Wear Logs](docs/screenshots/wear-logs.PNG) | ![Settings in dark mode](docs/screenshots/settings-dark.PNG) |
 
 ## Tech Stack
 
